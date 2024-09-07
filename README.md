@@ -8,8 +8,6 @@
 
 - 👨‍💻 Know more about me at [https://phongduong.vercel.app/](https://phongduong.vercel.app/)
 
-- 💬 Ask me about **ReactJS, NextJS, .NET**
-
 - 📫 How to reach me **duonghongphong.dp@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
