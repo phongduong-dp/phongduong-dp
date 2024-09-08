@@ -10,9 +10,9 @@
 - 📫 How to reach me **duonghongphong.dp@gmail.com**
 
 <div style="display: flex; flex-direction: row;" align = "center">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phongduong-dp&show_icons=true&locale=en&layout=compact" alt="phongduong-dp" height = "200px" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phongduong-dp&show_icons=true&locale=en&layout=compact" alt="phongduong-dp" height = "150px" />
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=phongduong-dp&show_icons=true&locale=en" alt="phongduong-dp" height = "200px" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=phongduong-dp&show_icons=true&locale=en" alt="phongduong-dp" height = "150px" />
 
 </div>
 
