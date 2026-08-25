@@ -7,9 +7,6 @@
 
 - 👨‍💻 Know more about me at [https://phongduong.vercel.app/](https://phongduong.vercel.app/)
 
-- 📫 How to reach me **duonghongphong.dp@gmail.com**
-
-
 
 
 
